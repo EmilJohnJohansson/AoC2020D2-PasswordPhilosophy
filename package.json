@@ -1,0 +1,20 @@
+{
+  "name": "aoc2020d2-passwordphilosophy",
+  "version": "1.0.0",
+  "description": "Some of the passwords wouldn't have been allowed by the Official Toboggan Corporate Policy that was in effect when they were chosen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilJohnJohansson/AoC2020D2-PasswordPhilosophy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilJohnJohansson/AoC2020D2-PasswordPhilosophy/issues"
+  },
+  "homepage": "https://github.com/EmilJohnJohansson/AoC2020D2-PasswordPhilosophy#readme"
+}
